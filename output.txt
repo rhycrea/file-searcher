@@ -1,0 +1,281 @@
+PRINT TREE ASC
+ ali
+	1
+	2
+	d.txt 1
+ alice
+	1
+	1
+	a.txt 1
+ bob
+	2
+	2
+	a.txt 1
+	b.txt 1
+ charlie
+	1
+	4
+	c.txt 1
+ iceberg
+	2
+	5
+	metin.txt 2
+ inside
+	1
+	6
+	metin.txt 1
+ jack
+	2
+	3
+	b.txt 1
+	c.txt 1
+ veli
+	1
+	4
+	d.txt 1
+SEARCH
+ charlie
+	1
+	4
+	c.txt 1
+REMOVE ali
+ADD ../ahlak
+PRINT TREE ASC
+ again
+	3
+	3
+	ahlak 3
+ ali
+	1
+	2
+	d.txt 1
+ alice
+	1
+	1
+	a.txt 1
+ bob
+	2
+	2
+	a.txt 1
+	b.txt 1
+ charlie
+	1
+	4
+	c.txt 1
+ i
+	4
+	6
+	ahlak 4
+ iceberg
+	2
+	5
+	metin.txt 2
+ inside
+	1
+	6
+	metin.txt 1
+ jack
+	2
+	3
+	b.txt 1
+	c.txt 1
+ lies
+	3
+	6
+	ahlak 3
+ not
+	3
+	5
+	ahlak 3
+ tell
+	3
+	6
+	ahlak 3
+ veli
+	1
+	4
+	d.txt 1
+ will
+	4
+	5
+	ahlak 4
+PRINT TREE DSC
+ will
+	4
+	5
+	ahlak 4
+ veli
+	1
+	4
+	d.txt 1
+ tell
+	3
+	6
+	ahlak 3
+ not
+	3
+	5
+	ahlak 3
+ lies
+	3
+	6
+	ahlak 3
+ jack
+	2
+	3
+	b.txt 1
+	c.txt 1
+ inside
+	1
+	6
+	metin.txt 1
+ iceberg
+	2
+	5
+	metin.txt 2
+ i
+	4
+	6
+	ahlak 4
+ charlie
+	1
+	4
+	c.txt 1
+ bob
+	2
+	2
+	a.txt 1
+	b.txt 1
+ alice
+	1
+	1
+	a.txt 1
+ ali
+	1
+	2
+	d.txt 1
+ again
+	3
+	3
+	ahlak 3
+REMOVE JacK
+PRINT TREE ASC
+ again
+	3
+	3
+	ahlak 3
+ ali
+	1
+	2
+	d.txt 1
+ alice
+	1
+	1
+	a.txt 1
+ bob
+	2
+	2
+	a.txt 1
+	b.txt 1
+ charlie
+	1
+	4
+	c.txt 1
+ i
+	4
+	6
+	ahlak 4
+ iceberg
+	2
+	5
+	metin.txt 2
+ inside
+	1
+	6
+	metin.txt 1
+ jack
+	2
+	3
+	b.txt 1
+	c.txt 1
+ lies
+	3
+	6
+	ahlak 3
+ not
+	3
+	5
+	ahlak 3
+ tell
+	3
+	6
+	ahlak 3
+ veli
+	1
+	4
+	d.txt 1
+ will
+	4
+	5
+	ahlak 4
+REMOVE kebab
+REMOVE iceberg
+PRINT TREE ASC
+ again
+	3
+	3
+	ahlak 3
+ ali
+	1
+	2
+	d.txt 1
+ alice
+	1
+	1
+	a.txt 1
+ bob
+	2
+	2
+	a.txt 1
+	b.txt 1
+ charlie
+	1
+	4
+	c.txt 1
+ i
+	4
+	6
+	ahlak 4
+ inside
+	1
+	5
+	metin.txt 1
+ inside
+	1
+	6
+	metin.txt 1
+ jack
+	2
+	3
+	b.txt 1
+	c.txt 1
+ lies
+	3
+	6
+	ahlak 3
+ not
+	3
+	5
+	ahlak 3
+ tell
+	3
+	6
+	ahlak 3
+ veli
+	1
+	4
+	d.txt 1
+ will
+	4
+	5
+	ahlak 4
